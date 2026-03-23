@@ -11,6 +11,7 @@ minimumReleaseAgeExclude:
   - "@trigger.dev/platform"
   - "next"
   - "@next/*"
+  - "fast-xml-parser"
 preferOffline: true
 
 linkWorkspacePackages: false
